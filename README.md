@@ -1,1 +1,1 @@
-This is a simple site that can be used for testing during VPS setup.
+A simple site for testing during VPS setup.
